@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="29" started-at="2018-04-22T12:17:41Z" finished-at="2018-04-22T12:17:41Z">
+    <groups>
+    </groups>
+    <test name="RegressionSuiteTestCases" duration-ms="29" started-at="2018-04-22T12:17:41Z" finished-at="2018-04-22T12:17:41Z">
+      <class name="com.vit.regression.HelloWorldTest">
+        <test-method status="PASS" signature="helloWorldTest()[pri:0, instance:com.vit.regression.HelloWorldTest@735b5592]" name="helloWorldTest" duration-ms="9" started-at="2018-04-22T17:47:41Z" finished-at="2018-04-22T17:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorldTest -->
+        <test-method status="PASS" signature="testEmailGenerator()[pri:0, instance:com.vit.regression.HelloWorldTest@735b5592]" name="testEmailGenerator" duration-ms="3" started-at="2018-04-22T17:47:41Z" finished-at="2018-04-22T17:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmailGenerator -->
+      </class> <!-- com.vit.regression.HelloWorldTest -->
+    </test> <!-- RegressionSuiteTestCases -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>

@@ -1,0 +1,10 @@
+package com.vit.regression;
+
+import org.testng.annotations.Test;
+
+public class HelloWordTest {
+	@Test
+	public void testHelloWorld() {
+		System.out.println("This is hello world test..");
+	}
+}
